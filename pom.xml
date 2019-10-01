@@ -41,6 +41,18 @@
         <module>spring-boot-web</module>
         <module>spring-boot-web-thymeleaf</module>
         <module>spring-boot-webflux</module>
+        <module>spring-boot-elasticsearch</module>
+        <module>spring-boot-jpa/spring-boot-jpa</module>
+        <module>spring-boot-jpa/spring-boot-multi-Jpa</module>
+        <module>spring-boot-mongodb/spring-boot-mongodb</module>
+        <module>spring-boot-mongodb/spring-boot-multi-mongodb</module>
+        <module>spring-boot-mybatis-plus</module>
+        <module>spring-boot-mybatis/spring-boot-mybatis-annotation</module>
+        <module>spring-boot-mybatis/spring-boot-mybatis-annotation-mulidatasource</module>
+        <module>spring-boot-mybatis/spring-boot-mybatis-xml</module>
+        <module>spring-boot-mybatis/spring-boot-mybatis-xml-mulidatasource</module>
+        <module>spring-boot-swagger</module>
+        <module>spring-boot-web-thymeleaf</module>
     </modules>
 
     <build>
